@@ -1,2 +1,2 @@
 # ThermalProcessingOfMice
-For Image Processing Autumn 2026
+For Image Processing Autumn 2025
