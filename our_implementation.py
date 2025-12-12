@@ -158,7 +158,7 @@ def count_regions(label_img):
 def main():
 
     input_dir = r"/Users/krist/Documents/IP_project/data/thermal_mouse/src/models/model_detectron/output_images_panoptic"
-    output_dir = r"/Users/krist/Documents/IP_project/RicardosScript/result_improvement2"
+    output_dir = r"/Users/krist/Documents/IP_project/RicardosScript/results"
 
 
     image_files = sorted([f for f in os.listdir(input_dir) if f.lower().endswith((".png", ".jpg", ".csv"))])
